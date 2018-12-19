@@ -1,2 +1,5 @@
 # hello-world
-My first repository in Github
+
+Hi hunmans!
+
+I like traveling and reading...
